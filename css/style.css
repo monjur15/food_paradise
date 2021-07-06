@@ -82,14 +82,15 @@ body h1{
 .middle_section{
     display: flex; 
     margin-top: 50px;
-    background-image: url(Frame 58.jpg);
-    background-repeat: no-repeat;
+    background-image: url(hu.jpg);
+    
+    
 }
 .mid_half1 img{
-    width: 85%;
+    width: 80%;
 }
 .mid_half1{
-    margin-left:150px;
+    margin-left: 130px;
 }
 
 .mid_half2 p{
