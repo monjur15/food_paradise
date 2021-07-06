@@ -176,6 +176,39 @@ body h1{
     
 }
 
+/*Update*/
+
+.upto{
+    width: 60%;
+    margin: 0 auto;
+
+}
+
+.update_section{
+  
+    display: flex;
+}
+
+
+
+.update img{
+    width: 100%;
+}
+.update h2{
+    font-family: 'Otomanopee One', sans-serif;
+    letter-spacing: 5px;
+    margin-top: 100px;
+
+}
+.update label{
+    font-family: 'Otomanopee One', sans-serif;
+    color: orange;
+   
+    
+    
+}
+
+
 
 
 
@@ -184,6 +217,7 @@ body h1{
     background-color: #18191F;
     text-align: center;
     height: 150px;
+    margin-top: -27px;
 }
 .footer h1{
     margin: 0 auto;
