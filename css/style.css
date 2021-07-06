@@ -15,6 +15,7 @@ body h1{
    width: 40%;
    line-height: ;
    font-family: 'Otomanopee One', sans-serif;
+   
   
     
 }
@@ -22,14 +23,22 @@ body h1{
 
 .top_section{
     display: flex;
-    background-image: url(restaurant-2.jpg);
+    background-image: url(55.jpg);
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+  
     
-    
-    
+}
+
+.top_section h1{
+    color:white;
+}
+.top_section p{
+    color: whitesmoke;
+    font-weight: 700;
+    margin-bottom: 40px;
 }
 .top_section img{
     width: 85%;
@@ -94,7 +103,7 @@ body h1{
 }
 
 .mid_half2 p{
-    padding-right: 290px;
+    padding-right: 280px;
     line-height: 2em;
     margin-bottom: 70px;
 }
