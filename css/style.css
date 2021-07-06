@@ -1,0 +1,102 @@
+body{
+    margin: 0;
+}
+body a{
+    text-decoration: none;
+    font-family: 'Otomanopee One', sans-serif;
+    
+}
+body p{
+    font-family: 'Encode Sans SC', sans-serif;
+}
+body h1{
+   
+    font-size: 40px;
+   width: 40%;
+   line-height: ;
+   font-family: 'Otomanopee One', sans-serif;
+  
+    
+}
+
+
+.top_section{
+    display: flex;
+    background-image: url(restaurant-2.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    
+    
+}
+.top_section img{
+    width: 85%;
+    margin-right: 90px;
+
+}
+
+.top_half{
+    padding-left: 30px;
+    
+   
+}
+.stop{
+   margin-top: 100px;
+    margin-left: 70px;
+   
+    
+}
+.in_stop{
+    width: 100%;
+    
+    
+   
+}
+.in_stop h1{
+    width: 55%;
+}
+
+.stop p{
+    font-size: 17px;
+    width: 55%;
+}
+#skip{
+    color: red;
+    
+}
+
+.link_button{
+   
+    background-image: linear-gradient(to right,#c000ff,#2f11dd ); 
+    padding: 12px 40px;
+    border-radius: 20px;
+    color: white;
+    font-weight: bolder;
+    
+}
+
+/*middle_section*/
+
+.middle_section{
+    display: flex; 
+    margin-top: 50px;
+    background-image: url(Frame 58.jpg);
+    background-repeat: no-repeat;
+}
+.mid_half1 img{
+    width: 85%;
+}
+.mid_half1{
+    margin-left:150px;
+}
+
+.mid_half2 p{
+    padding-right: 290px;
+    line-height: 2em;
+    margin-bottom: 70px;
+}
+.mid_half2{
+    margin-left: 50px;
+}
