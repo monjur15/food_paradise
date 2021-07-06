@@ -105,8 +105,81 @@ body h1{
 .mid_half2 p{
     padding-right: 280px;
     line-height: 2em;
-    margin-bottom: 70px;
+    margin-bottom: 50px;
 }
 .mid_half2{
     margin-left: 50px;
+}
+
+/*Bottom section*/
+.recipie{
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 35px;
+}
+.recipie h1{
+    margin: 0 auto;
+    color: rgb(39, 39, 56);
+}
+
+.bottom_section{
+    display: flex;
+    
+    
+}
+
+.food_box{
+    width: 21%;
+    padding: 23px;
+    box-shadow: -4px 8px 16px 0px rgba(0,0,0,0.52);
+    margin-left: 3%;
+    margin-right: 3%;
+    border-radius: 15px;
+    margin: 0 auto;
+}
+.food_box img{
+    width: 100%;
+}
+
+
+/*random*/
+.random{
+    display: flex;
+    box-shadow: -4px 8px 16px 0px rgba(0,0,0,0.52);
+    margin-top: 150px;
+    border-radius: 15px;
+    margin-bottom: 150px;
+}
+.sub{
+    width: 23.33%;
+    margin-left: 5%;
+    margin-right: 5%;
+   
+}
+.ran_in{
+    width: 50%;
+    margin: 0 auto;
+}
+
+
+
+
+/*footer*/
+.footer{
+    background-color: #18191F;
+    text-align: center;
+    height: 150px;
+}
+.footer h1{
+    margin: 0 auto;
+    color: white;
+    word-spacing: 10px;
+    letter-spacing: 5px;
+}
+.footer p{
+    color: white;
+}
+#food{
+    color: yellow;
 }
