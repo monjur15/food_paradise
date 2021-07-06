@@ -87,6 +87,13 @@ body h1{
     
 }
 
+.link_button:hover{
+   background-image: linear-gradient(to left,#c000ff,#2f11dd );
+   
+   
+}
+
+
 /*middle_section*/
 
 .middle_section{
@@ -138,6 +145,11 @@ body h1{
     margin-right: 3%;
     border-radius: 15px;
     margin: 0 auto;
+}
+
+.food_box:hover{
+    background-color: #262626;
+    color: white;
 }
 .food_box img{
     width: 100%;
